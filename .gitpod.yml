@@ -1,2 +1,6 @@
 tasks:
   - init: npm install -g expo-cli && npm install
+
+ports:
+  - port: 19006
+    onOpen: open-preview
