@@ -1,3 +1,0 @@
-tasks:
-  - init: npm install -g expo-cli && cd expo-app && npm install
-    command: expo start
